@@ -1,0 +1,14 @@
+.wrap{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.text{color: rgb(173, 15, 225);}
+.imge{max-width: 500px;
+max-height: 500px;
+border-radius: 100px;}
