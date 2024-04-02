@@ -9,6 +9,8 @@ export async function fetchPhotosByInput(inputSearch, page) {
           per_page: perPage,
           page: page}});
     const photos = respons.data;
+    
     return photos;
+    
 
  }
