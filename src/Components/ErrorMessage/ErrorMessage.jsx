@@ -1,5 +1,6 @@
 
 import css from "./ErrorMessage.module.css"
+import imge from "../componentst/"
 
 const ErrorMessage = () => {
   return (<div className={css.wrap}>    
